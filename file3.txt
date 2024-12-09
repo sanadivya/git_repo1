@@ -1,0 +1,2 @@
+Added newline to the file3.txt from master branch
+
